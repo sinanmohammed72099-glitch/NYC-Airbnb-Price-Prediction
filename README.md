@@ -1,5 +1,8 @@
 #  New York City Airbnb Open Data Analysis
 
+
+https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
 # 📌 Project Overview
 
 This project analyzes the **New York City Airbnb Open Data** dataset to understand pricing patterns, availability, and listing characteristics across different neighborhoods in NYC. The goal is to perform **data cleaning, exploratory data analysis (EDA), and basic insights generation** that can later support machine learning models.
@@ -101,3 +104,6 @@ Mohammed Sinan
 # Acknowledgement
 
 Thanks to Kaggle for providing the NYC Airbnb Open Dataset.
+
+
+Image Link:- https://github.com/sinanmohammed72099-glitch/NYC-Airbnb-Price-Prediction/blob/main/Screenshot%202026-01-31%20125739.png
